@@ -112,7 +112,7 @@ const Index = () => {
                             Start Learning With
                           </div>
                           <div className="box-custom">
-                            <div className="wrap clr-pri-1">Kindco School</div>
+                            <div className="wrap clr-pri-1">Our School</div>
                             <svg
                               data-name="Hero Area"
                               xmlns="http://www.w3.org/2000/svg"
@@ -141,12 +141,12 @@ const Index = () => {
                             </li>
                             <li className="st-3 fx">
                               <i className="fas fa-check" />
-                              <p className="clr-pri-2">Nutritious Foods</p>
+                              <p className="clr-pri-2">Smart Classes</p>
                             </li>
                           </ul>
                           <div className="box-btn">
                             <a href="#" className="fl-btn st-12">
-                              <span className="inner">COntact Us</span>
+                              <span className="inner">Contact Us</span>
                             </a>
                             <a href="#" className="fl-btn st-1">
                               <span className="inner">learn more</span>
@@ -183,7 +183,7 @@ const Index = () => {
                   <RightArrowWhite />
                 </div>
                 <h2 className="title clr-pri-1">
-                  Discover Now Why People Come With Kindco
+                  Discover Now Why People Come With Our School
                 </h2>
               </div>
             </div>

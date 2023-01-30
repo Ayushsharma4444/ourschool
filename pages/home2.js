@@ -129,7 +129,7 @@ const Index2 = () => {
                   <RightArrow />
                 </div>
                 <h2 className="title clr-pri-2">
-                  Discover Now Why People Come With Kindco
+                  Discover Now Why People Come With Our School
                 </h2>
               </div>
             </div>
@@ -359,7 +359,7 @@ const Index2 = () => {
                     </li>
                     <li className="st-3 fx">
                       <i className="fas fa-check" />
-                      <p className="clr-pri-2">Nutritious Foods</p>
+                      <p className="clr-pri-2">Smart Classes</p>
                     </li>
                     <li className="st-4 fx">
                       <i className="fas fa-check" />

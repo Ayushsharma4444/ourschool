@@ -45,7 +45,8 @@ const MobileMenu = () => {
                 <div id="site-logo" className="clearfix">
                   <Link href="/">
                     <a className="logo">
-                      <img src="assets/images/logo/logodark.png" alt="Kinco" />
+                      {/* <img src="assets/images/logo/logodark.png" alt="Kinco" /> */}
+                      <h2>Our School</h2>
                     </a>
                   </Link>
                 </div>
