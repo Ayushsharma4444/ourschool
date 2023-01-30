@@ -49,10 +49,7 @@ const Footer2 = () => {
                   <div className="logo-bottom" id="logo-footer">
                     <Link href="/">
                       <a>
-                        <img
-                          src="assets/images/logo/logofootert.png"
-                          alt="kinco"
-                        />
+                        <h2>Our School</h2>
                       </a>
                     </Link>
                   </div>
